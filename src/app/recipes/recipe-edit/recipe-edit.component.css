@@ -1,0 +1,11 @@
+.btn {
+  margin-left: 5px;
+}
+
+.ingredient-list {
+  margin-top: 10px;
+}
+
+input.ng-invalid.ng-touched, textarea.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
